@@ -56,7 +56,7 @@ echo 'export PATH="$HOME/.tfenv/bin:$PATH"' >> ~/.bash_profile
 ```
 zsh:
 ```console
-$ echo 'export PATH="$HOME/.tfenv/bin:$PATH"' >> ~/.zprofile
+echo 'export PATH="$HOME/.tfenv/bin:$PATH"' >> ~/.zprofile
 ```
 
 For WSL users:
